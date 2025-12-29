@@ -37,7 +37,7 @@ var completeCmd = &cobra.Command{
 			return err
 		}
 
-		fmt.Fprintf(cmd.OutOrStdout(), "Marked task as complete: %s\n", taskId)
+		fmt.Fprintf(cmd.OutOrStdout(), "Marked task as complete: %d\n", taskId)
 
 		return nil
 	},
