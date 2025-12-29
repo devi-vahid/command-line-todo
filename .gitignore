@@ -68,3 +68,6 @@ go.work.sum
 # Ignore all local history of files
 .history
 .ionide
+
+# default task csv file
+tasks.csv
