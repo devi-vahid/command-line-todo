@@ -1,6 +1,6 @@
 package main
 
-import "github.com/devi-vahid/go-todo-list/cmd"
+import "github.com/devi-vahid/command-line-todo/cmd"
 
 func main() {
 	cmd.Execute()

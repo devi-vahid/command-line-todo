@@ -7,7 +7,7 @@ import (
 	"github.com/mergestat/timediff"
 	"github.com/spf13/cobra"
 
-	"github.com/devi-vahid/go-todo-list/internal/task"
+	"github.com/devi-vahid/command-line-todo/internal/task"
 )
 
 var showAll bool

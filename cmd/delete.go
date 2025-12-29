@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/devi-vahid/go-todo-list/internal/task"
+	"github.com/devi-vahid/command-line-todo/internal/task"
 	"github.com/spf13/cobra"
 )
 

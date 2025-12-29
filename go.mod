@@ -1,4 +1,4 @@
-module github.com/devi-vahid/go-todo-list
+module github.com/devi-vahid/command-line-todo
 
 go 1.25.5
 
